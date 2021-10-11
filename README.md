@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Connie</h1>
+<h1 align="center">Hi, I'm Connie🌷</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connie0914&label=Profile%20views&color=0e75b6&style=flat" alt="connie0914" /> </p>
